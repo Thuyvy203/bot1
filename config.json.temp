@@ -1,0 +1,126 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "NOTIFICATION": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "allowInbox": false,
+    "duyetbox": false,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [
+        "adminupdate.js"
+    ],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "BOT Quỳnh",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100001819685971",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "100033986649405"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "album": {
+        "cooldownTime": 1200000
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.ibb.co/T4Zr0sy/z3692132602050-019d89d029ccca04d6316004ac015531.jpg"
+        }
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sim": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyD8fodb6cR6P_6G9oqRjy9es-o1fa5TAuY"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "leave": {
+        "status": false,
+        "number": 0
+    },
+    "adminOnly": true,
+    "ảnh": {
+        "cooldownTime": 1200000
+    }
+}
